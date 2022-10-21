@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/my-theme",
+  "repository": "https://github.com/comsc107/my-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
